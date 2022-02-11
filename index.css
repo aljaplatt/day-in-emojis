@@ -1,0 +1,72 @@
+html {
+  height: 100vh;
+  font-family: "Dosis", sans-serif;
+  letter-spacing: 2px;
+}
+body {
+  margin: 10px;
+  padding: 10px;
+  background-image: linear-gradient(#fe5f00, #c5baaf, blue);
+}
+
+.emojiContainer {
+  margin: 40px;
+  text-align: center;
+}
+
+.emojiContainer span {
+  margin: 10px;
+  font-size: 60px;
+}
+
+.push,
+.unshift {
+  background-color: #80d87f;
+}
+
+.shift,
+.pop {
+  background-color: #e23349;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-top: 4rem;
+  text-align: center;
+  color: white;
+}
+
+input {
+  font-size: 2rem;
+  font-family: "Dosis", sans-serif;
+  margin: 3rem auto;
+  display: block;
+  border: none;
+  height: 30px;
+  background: white;
+  border-radius: 8px;
+  text-align: center;
+  padding: 12px 20px;
+}
+
+button {
+  font-family: "Dosis", sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: px;
+  background: #08415c;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  border-radius: 4px;
+  margin: 0 5px;
+}
+
+.top {
+  padding: 15px 55px;
+}
+
+.button-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0 40px;
+}
